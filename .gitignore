@@ -1,0 +1,17 @@
+# Python / Django
+__pycache__/
+*.py[cod]
+*.db
+*.sqlite3
+hospital_ca_key.pem
+.env
+venv/
+# Node / Angular (rebuilt via npm install / ng build)
+node_modules/
+dist/
+.angular/
+# Logs / OS / IDE
+npm-debug.log
+.DS_Store
+.vscode/
+.idea/
